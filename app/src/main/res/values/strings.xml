@@ -1,0 +1,9 @@
+<resources>
+    <string name="hello">Hello World, Tut_2_1Activity!</string>
+    <string name="app_name">Tut_2_1</string>
+    <string-array name="img">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+    </string-array>
+</resources>
